@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">NumberListApp</string>
+    <string name="hint_limit">Nhập số giới hạn (ví dụ: 100)</string>
+    <string name="rb_odd">Số lẻ</string>
+    <string name="rb_even">Số chẵn</string>
+    <string name="rb_prime">Số nguyên tố</string>
+    <string name="rb_perfect">Số hoàn hảo</string>
+    <string name="rb_square">Số chính phương</string>
+    <string name="rb_fibonacci">Số Fibonacci</string>
+    <string name="no_result">Không có số nào thỏa mãn</string>
+</resources>
